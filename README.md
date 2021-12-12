@@ -6,7 +6,7 @@
 The code includes training and inference procedures for CDNet.
 
 Tips:
-There is a result collation error(U-Net) in Table 4 in the original paper. 
+There is a result written mistake (U-Net) in Table 4 in the original paper. 
 The correct result is：
 
 ### MoNuSeg
