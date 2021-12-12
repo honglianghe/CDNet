@@ -8,7 +8,7 @@ Tips:
 There is a result collation error(U-Net) in Table 4 in the original paper. 
 The correct result is：
 
-#### MoNuSeg
+### MoNuSeg
 
 <table><tbody>
 <!-- START TABLE -->
@@ -75,6 +75,31 @@ The correct result is：
 </tbody></table>
 
 
-Detailed operation procedures will be released in the near future.
+## Getting Started
+#### Create a data folder(/data) and put the datasets(MoNuSeg, CPM17) in it.
+
+#### Train 
+```
+cd CDNet/
+python train.py
+```
+
+#### Test 
+```
+cd CDNet/
+python test.py
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
