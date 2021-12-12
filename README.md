@@ -1,11 +1,14 @@
-The code includes training and inference procedures for # CDNet: Centripetal Direction Network for Nuclear Instance Segmentation(https://openaccess.thecvf.com/content/ICCV2021/papers/He_CDNet_Centripetal_Direction_Network_for_Nuclear_Instance_Segmentation_ICCV_2021_paper.pdf).
+# CDNet: Centripetal Direction Network for Nuclear Instance Segmentation
 
+<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/He_CDNet_Centripetal_Direction_Network_for_Nuclear_Instance_Segmentation_ICCV_2021_paper.pdf">CDNet: Centripetal Direction Network for Nuclear Instance Segmentation</a>
 
+The code includes training and inference procedures for CDNet.
+
+Tips:
 There is a result collation error(U-Net) in Table 4 in the original paper. 
 The correct result is：
 
-
-#### ADE20K Panoptic Segmentation
+#### MoNuSeg
 
 <table><tbody>
 <!-- START TABLE -->
@@ -54,19 +57,16 @@ The correct result is：
 <td align="center">0.8260</td>
 <td align="center">0.6180</td>
 </tr>
-</tbody></table>
 <!-- BRP-Net -->
  <tr><td align="left">BRP-Net</a></td>
 <td align="center"> - </td>
 <td align="center">0.6422</td>
 </tr>
-</tbody></table>
 <!-- PFF-Net -->
  <tr><td align="left">PFF-Net</a></td>
 <td align="center">0.8091</td>
 <td align="center">0.6107</td>
 </tr>
-</tbody></table>
 <!-- Our CDNet -->
  <tr><td align="left">Our CDNet</a></td>
 <td align="center">0.8316</td>
