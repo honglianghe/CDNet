@@ -1,6 +1,7 @@
 # CDNet: Centripetal Direction Network for Nuclear Instance Segmentation
 
-<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/He_CDNet_Centripetal_Direction_Network_for_Nuclear_Instance_Segmentation_ICCV_2021_paper.pdf">CDNet: Centripetal Direction Network for Nuclear Instance Segmentation</a>
+
+[[`ICCV2021`](https://openaccess.thecvf.com/content/ICCV2021/papers/He_CDNet_Centripetal_Direction_Network_for_Nuclear_Instance_Segmentation_ICCV_2021_paper.pdf)]
 
 The code includes training and inference procedures for CDNet.
 
